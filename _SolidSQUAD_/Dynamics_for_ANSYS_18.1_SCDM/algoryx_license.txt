@@ -1,0 +1,14 @@
+Key {
+      User         "Algoryx Simulation"
+      Contact      "contact@algoryx.se"
+      EndDate      "2020-12-31"
+      HwKey        "none"
+      Modules      "AgX,DynamicsPro"
+      Version      "2"
+      Info         "Algoryx Momentum"
+      Url          "http://www.algoryx.se/products/momentum/"
+      Id1          "1.6"
+      Id2          ""
+
+      License      "MFQCKGxcDoeZ+xyrpH5BBBfc39y41uAJimeAHffjZLY3xJ0x5KN4z/OYcegCKG3hUF6lSddHuShxYS5uODvzFsNQPoNTqr1b3rZmnHztX6o6UmUw/30="
+}

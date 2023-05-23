@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<KEYS>
+	<KEY ObjectName="AnsoftPreferences" RegObjectType="0">
+		<KEYS>
+			<KEY ObjectName="PreferenceSpecs" RegObjectType="0">
+				<KEYS>
+					<KEY ObjectName="Ansoft" RegObjectType="0">
+						<KEYS>
+							<KEY ObjectName="Install Paths" RegObjectType="0">
+								<KEYS>
+									<KEY ObjectName="Designer Install Path" RegObjectType="0">
+										<VALUES>
+											<VALUE ObjectName="ObjectType" Value="Ansys.Core.Preference.PreferenceEntity, Ans.Core" ValueType="2"/>
+											<VALUE ObjectName="SiblingNumber" Value="0" ValueType="4"/>
+											<VALUE ObjectName="ValueSpec" Value="{&quot;SpecType&quot;: &quot;Ansys.Core.DataSpecs.DirectoryPathSpec, Ans.Core&quot;, &quot;Context&quot;: &quot;##False&quot;, &quot;Default&quot;: &quot;&quot;, &quot;Label&quot;: &quot;Designer Install Path&quot;, &quot;Presentation&quot;: None, &quot;IsWriteAccessRequired&quot;: False}" ValueType="2"/>
+										</VALUES>
+									</KEY>
+									<KEY ObjectName="Electronics Desktop Install Path" RegObjectType="0">
+										<VALUES>
+											<VALUE ObjectName="ObjectType" Value="Ansys.Core.Preference.PreferenceEntity, Ans.Core" ValueType="2"/>
+											<VALUE ObjectName="SiblingNumber" Value="6" ValueType="4"/>
+											<VALUE ObjectName="ValueSpec" Value="{&quot;SpecType&quot;: &quot;Ansys.Core.DataSpecs.DirectoryPathSpec, Ans.Core&quot;, &quot;Context&quot;: None, &quot;Default&quot;: &quot;&quot;, &quot;Label&quot;: &quot;Electronics Desktop Install Path&quot;, &quot;Presentation&quot;: None, &quot;IsWriteAccessRequired&quot;: False}" ValueType="2"/>
+										</VALUES>
+									</KEY>
+									<KEY ObjectName="HFSS Install Path" RegObjectType="0">
+										<VALUES>
+											<VALUE ObjectName="ObjectType" Value="Ansys.Core.Preference.PreferenceEntity, Ans.Core" ValueType="2"/>
+											<VALUE ObjectName="SiblingNumber" Value="1" ValueType="4"/>
+											<VALUE ObjectName="ValueSpec" Value="{&quot;SpecType&quot;: &quot;Ansys.Core.DataSpecs.DirectoryPathSpec, Ans.Core&quot;, &quot;Context&quot;: &quot;##False&quot;, &quot;Default&quot;: &quot;&quot;, &quot;Label&quot;: &quot;HFSS Install Path&quot;, &quot;Presentation&quot;: None, &quot;IsWriteAccessRequired&quot;: False}" ValueType="2"/>
+										</VALUES>
+									</KEY>
+									<KEY ObjectName="Maxwell Install Path" RegObjectType="0">
+										<VALUES>
+											<VALUE ObjectName="ObjectType" Value="Ansys.Core.Preference.PreferenceEntity, Ans.Core" ValueType="2"/>
+											<VALUE ObjectName="SiblingNumber" Value="2" ValueType="4"/>
+											<VALUE ObjectName="ValueSpec" Value="{&quot;SpecType&quot;: &quot;Ansys.Core.DataSpecs.DirectoryPathSpec, Ans.Core&quot;, &quot;Context&quot;: &quot;##False&quot;, &quot;Default&quot;: &quot;&quot;, &quot;Label&quot;: &quot;Maxwell Install Path&quot;, &quot;Presentation&quot;: None, &quot;IsWriteAccessRequired&quot;: False}" ValueType="2"/>
+										</VALUES>
+									</KEY>
+									<KEY ObjectName="Q3D Extractor Install Path" RegObjectType="0">
+										<VALUES>
+											<VALUE ObjectName="ObjectType" Value="Ansys.Core.Preference.PreferenceEntity, Ans.Core" ValueType="2"/>
+											<VALUE ObjectName="SiblingNumber" Value="3" ValueType="4"/>
+											<VALUE ObjectName="ValueSpec" Value="{&quot;SpecType&quot;: &quot;Ansys.Core.DataSpecs.DirectoryPathSpec, Ans.Core&quot;, &quot;Context&quot;: &quot;##False&quot;, &quot;Default&quot;: &quot;&quot;, &quot;Label&quot;: &quot;Q3D Extractor Install Path&quot;, &quot;Presentation&quot;: None, &quot;IsWriteAccessRequired&quot;: False}" ValueType="2"/>
+										</VALUES>
+									</KEY>
+									<KEY ObjectName="Simplorer Install Path" RegObjectType="0">
+										<VALUES>
+											<VALUE ObjectName="ObjectType" Value="Ansys.Core.Preference.PreferenceEntity, Ans.Core" ValueType="2"/>
+											<VALUE ObjectName="SiblingNumber" Value="4" ValueType="4"/>
+											<VALUE ObjectName="ValueSpec" Value="{&quot;SpecType&quot;: &quot;Ansys.Core.DataSpecs.DirectoryPathSpec, Ans.Core&quot;, &quot;Context&quot;: &quot;##False&quot;, &quot;Default&quot;: &quot;&quot;, &quot;Label&quot;: &quot;Simplorer Install Path&quot;, &quot;Presentation&quot;: None, &quot;IsWriteAccessRequired&quot;: False}" ValueType="2"/>
+										</VALUES>
+									</KEY>
+									<KEY ObjectName="ansysedt Install Path" RegObjectType="0">
+										<VALUES>
+											<VALUE ObjectName="ObjectType" Value="Ansys.Core.Preference.PreferenceEntity, Ans.Core" ValueType="2"/>
+											<VALUE ObjectName="SiblingNumber" Value="5" ValueType="4"/>
+											<VALUE ObjectName="ValueSpec" Value="{&quot;SpecType&quot;: &quot;Ansys.Core.DataSpecs.DirectoryPathSpec, Ans.Core&quot;, &quot;Context&quot;: &quot;##False&quot;, &quot;Default&quot;: &quot;&quot;, &quot;Label&quot;: &quot;ansysedt Install Path&quot;, &quot;Presentation&quot;: None, &quot;IsWriteAccessRequired&quot;: False}" ValueType="2"/>
+										</VALUES>
+									</KEY>
+								</KEYS>
+								<VALUES>
+									<VALUE ObjectName="ObjectType" Value="PreferenceCategory" ValueType="2"/>
+									<VALUE ObjectName="Properties" Value="{&quot;DisplayText&quot;: &quot;Install Paths&quot;, &quot;VisibilityContext&quot;: None, &quot;IsBranch&quot;: False, &quot;Columns&quot;: 1}" ValueType="2"/>
+									<VALUE ObjectName="SiblingNumber" Value="0" ValueType="4"/>
+								</VALUES>
+							</KEY>
+							<KEY ObjectName="Journal" RegObjectType="0">
+								<KEYS>
+									<KEY ObjectName="EBUJournalRecordingLanguage" RegObjectType="0">
+										<VALUES>
+											<VALUE ObjectName="ObjectType" Value="Ansys.Core.Preference.PreferenceEntity, Ans.Core" ValueType="2"/>
+											<VALUE ObjectName="SiblingNumber" Value="0" ValueType="4"/>
+											<VALUE ObjectName="ValueSpec" Value="{&quot;SpecType&quot;: &quot;Ansys.Core.DataSpecs.OptionSpec, Ans.Core&quot;, &quot;Context&quot;: None, &quot;Default&quot;: &quot;IronPython&quot;, &quot;Label&quot;: &quot;Journal Recording Language&quot;, &quot;Presentation&quot;: None, &quot;IsMultiSelect&quot;: False, &quot;AllowArbitraryInput&quot;: False, &quot;OptionIcons&quot;: None, &quot;OptionLabels&quot;: &quot;IronPython, VB&quot;, &quot;Options&quot;: &quot;IronPython, VB&quot;, &quot;OptionFeatureFlags&quot;: None, &quot;OptionFilterFlags&quot;: None, &quot;OptionLicenseFlags&quot;: None}" ValueType="2"/>
+										</VALUES>
+									</KEY>
+								</KEYS>
+								<VALUES>
+									<VALUE ObjectName="ObjectType" Value="PreferenceCategory" ValueType="2"/>
+									<VALUE ObjectName="Properties" Value="{&quot;DisplayText&quot;: &quot;Journal&quot;, &quot;VisibilityContext&quot;: None, &quot;IsBranch&quot;: False, &quot;Columns&quot;: 1}" ValueType="2"/>
+									<VALUE ObjectName="SiblingNumber" Value="1" ValueType="4"/>
+								</VALUES>
+							</KEY>
+						</KEYS>
+						<VALUES>
+							<VALUE ObjectName="ObjectType" Value="PreferenceCategory" ValueType="2"/>
+							<VALUE ObjectName="Properties" Value="{&quot;DisplayText&quot;: &quot;Electromagnetics&quot;, &quot;VisibilityContext&quot;: None, &quot;IsBranch&quot;: False, &quot;Columns&quot;: 1}" ValueType="2"/>
+							<VALUE ObjectName="SiblingNumber" Value="0" ValueType="4"/>
+						</VALUES>
+					</KEY>
+				</KEYS>
+				<VALUES>
+					<VALUE ObjectName="ObjectType" Value="TopLevelCategory" ValueType="2"/>
+					<VALUE ObjectName="Properties" Value="{&quot;DisplayText&quot;: &quot;AnsoftPreferences&quot;, &quot;VisibilityContext&quot;: None, &quot;IsBranch&quot;: True, &quot;Columns&quot;: 1, &quot;TranslationContext&quot;: &quot;Ans.Ansoft.CoreAddin&quot;}" ValueType="2"/>
+					<VALUE ObjectName="SiblingNumber" Value="0" ValueType="4"/>
+				</VALUES>
+			</KEY>
+			<KEY ObjectName="PreferenceValues" RegObjectType="0">
+				<VALUES>
+					<VALUE ObjectName="Designer Install Path" Value="C:\Program Files\ANSYS Inc\v181\Electronics\Win64" ValueType="2"/>
+					<VALUE ObjectName="EBUJournalRecordingLanguage" Value="IronPython" ValueType="2"/>
+					<VALUE ObjectName="Electronics Desktop Install Path" Value="C:\Program Files\ANSYS Inc\v181\Electronics\Win64" ValueType="2"/>
+					<VALUE ObjectName="HFSS Install Path" Value="C:\Program Files\ANSYS Inc\v181\Electronics\Win64" ValueType="2"/>
+					<VALUE ObjectName="Maxwell Install Path" Value="C:\Program Files\ANSYS Inc\v181\Electronics\Win64" ValueType="2"/>
+					<VALUE ObjectName="Q3D Extractor Install Path" Value="C:\Program Files\ANSYS Inc\v181\Electronics\Win64" ValueType="2"/>
+					<VALUE ObjectName="Simplorer Install Path" Value="C:\Program Files\ANSYS Inc\v181\Electronics\Win64" ValueType="2"/>
+					<VALUE ObjectName="ansysedt Install Path" Value="C:\Program Files\ANSYS Inc\v181\Electronics\Win64" ValueType="2"/>
+				</VALUES>
+			</KEY>
+		</KEYS>
+		<VALUES>
+			<VALUE ObjectName="Version" Value="16" ValueType="4"/>
+		</VALUES>
+	</KEY>
+</KEYS>

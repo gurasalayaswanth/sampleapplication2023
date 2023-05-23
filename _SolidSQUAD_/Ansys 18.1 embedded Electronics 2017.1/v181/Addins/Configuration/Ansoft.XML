@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Addins>
+  <Configuration Name="Default">
+    <Addin Name="Ansys.Ansoft.CoreAddin.Addin" Location="$(Addins)/Ansoft/bin/$(Albion_Running_Platform)/$(Albion_Running_Target)/Ans.Ansoft.CoreAddin.dll"/>    
+    <Addin Name="Ansys.Ansoft.FeedbackIteratorAddin.Addin" Location="$(Addins)/Ansoft/bin/$(Albion_Running_Platform)/$(Albion_Running_Target)/Ans.Ansoft.FeedbackIteratorAddin.dll"/>
+  </Configuration>
+
+  <Configuration Name="Testing">
+      <Addin Name="Ansys.Ansoft.DesktopTestAddin.Addin" Location="$(Addins)/Ansoft/bin/$(Albion_Running_Platform)/$(Albion_Running_Target)/Ans.Ansoft.DesktopTestAddin.dll"/>      
+  </Configuration>
+</Addins>
