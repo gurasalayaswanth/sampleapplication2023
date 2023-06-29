@@ -5,27 +5,27 @@ pipeline {
         stage('Checkout') {
             steps {
                 // Checkout source code from your version control system 
-                git 'https://github.com/your/repo.git'
+                git 'https://github.com/gurasalayaswanth/sampleapplication2023.git'
             }
         }
         
         stage('Build') {
             steps {
-                // Build your Java project (e.g., using Maven)
+                // Build your Java project
                 sh 'mvn clean package'
             }
         }
         
         stage('Test') {
             steps {
-                // Run your tests (e.g., using Maven)
+                // Run your tests
                 sh 'mvn test'
             }
         }
         
         stage('Deploy') {
             steps {
-                // Deploy your application (e.g., to a server)
+                // Deploy your application
                 sh 'mvn deploy'
             }
         }
