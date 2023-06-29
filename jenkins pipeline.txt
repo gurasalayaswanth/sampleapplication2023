@@ -4,7 +4,7 @@ pipeline {
     stages {
         stage('Checkout') {
             steps {
-                // Checkout source code from your version control system (e.g., Git)
+                // Checkout source code from your version control system 
                 git 'https://github.com/your/repo.git'
             }
         }
